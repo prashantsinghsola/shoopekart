@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "prod_1",
+    "title": "Premium Men's Leather Jacket",
+    "description": "Handcrafted genuine leather jacket. Perfect for autumn and winter.",
+    "price": 189.99,
+    "discountPrice": 149.99,
+    "category": "Men's Clothes",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.8,
+    "isDealOfTheDay": true,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  },
+  {
+    "_id": "prod_2",
+    "title": "Elegant Summer Floral Dress",
+    "description": "Flowy, breathable summer dress made from organic cotton.",
+    "price": 79.99,
+    "discountPrice": 59.99,
+    "category": "Women's Clothes",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.5,
+    "isDealOfTheDay": false,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  },
+  {
+    "_id": "prod_3",
+    "title": "Ultra Bass Bluetooth Headphones",
+    "description": "Over-ear active noise cancelling headphones with 40-hour battery life.",
+    "price": 120,
+    "discountPrice": 99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.7,
+    "isDealOfTheDay": true,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  },
+  {
+    "_id": "prod_4",
+    "title": "Performance Athletic Running Shoes",
+    "description": "Lightweight mesh knit running sneakers with impact-cushioning soles.",
+    "price": 95,
+    "discountPrice": 0,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.4,
+    "isDealOfTheDay": false,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  },
+  {
+    "_id": "prod_5",
+    "title": "Classic White Sneakers",
+    "description": "Minimalist leather sneaker. Goes with everything.",
+    "price": 85,
+    "discountPrice": 65,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.6,
+    "isDealOfTheDay": false,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  },
+  {
+    "_id": "prod_6",
+    "title": "Smart Sports Fitness Band",
+    "description": "Heart rate monitor, step tracker, sleep analyzer, and water resistant.",
+    "price": 49.99,
+    "discountPrice": 39.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=600&q=80",
+    "rating": 4.2,
+    "isDealOfTheDay": true,
+    "createdAt": "2026-06-05T05:44:50.098Z"
+  }
+]

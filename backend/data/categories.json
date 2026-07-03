@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "cat_1",
+    "name": "Men's Clothes",
+    "slug": "men-s-clothes",
+    "createdAt": "2026-06-05T05:44:50.086Z"
+  },
+  {
+    "_id": "cat_2",
+    "name": "Women's Clothes",
+    "slug": "women-s-clothes",
+    "createdAt": "2026-06-05T05:44:50.097Z"
+  },
+  {
+    "_id": "cat_3",
+    "name": "Electronics",
+    "slug": "electronics",
+    "createdAt": "2026-06-05T05:44:50.097Z"
+  },
+  {
+    "_id": "cat_4",
+    "name": "Shoes",
+    "slug": "shoes",
+    "createdAt": "2026-06-05T05:44:50.097Z"
+  }
+]

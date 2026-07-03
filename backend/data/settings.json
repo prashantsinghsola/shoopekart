@@ -1,0 +1,15 @@
+{
+  "key": "site_settings",
+  "logoType": "text",
+  "logoText": "ShopKart",
+  "logoImage": "",
+  "heroImages": [
+    "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&q=80",
+    "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=1600&q=80",
+    "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1600&q=80"
+  ],
+  "footerText": "© 2026 ShopKart. All rights reserved.",
+  "footerEmail": "support@shopkart.com",
+  "footerPhone": "+1 (234) 567-890",
+  "footerAddress": "123 ShopKart Ave, Commerce City, USA"
+}
